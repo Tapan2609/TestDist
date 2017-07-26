@@ -1,4 +1,4 @@
-tapan/TestDistelli:
+tapan/TestDist:
 
     Env:
         # CLASSPATH = $(find lib -name '*.jar' | xargs echo | tr ' ' ':')
